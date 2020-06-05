@@ -1,1 +1,1 @@
-# got clone github.com/victoronwens123/chime-God
+# git clone github.com/victoronwens123/chime-God
